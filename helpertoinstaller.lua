@@ -270,7 +270,7 @@ preInstall = {
 		},
 		{
 			path="/MaynerOSAuma.lua",
-			url="https://raw.githubusercontent.com/Matveymayner/MaynerOS-Auma/main/MaynerOS-Auma-OS-CODE?token=GHSAT0AAAAAAB75RROMHB4K77TG6Z3KD53AZA56NCA",
+			url="https://raw.githubusercontent.com/Matveymayner/MaynerOS-Auma/main/MaynerOSAuma.lua",
 			
 		},
 	 }
