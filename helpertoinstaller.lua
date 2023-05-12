@@ -269,8 +269,8 @@ preInstall = {
 			
 		},
 		{
-			path="/HIPOSAV.lua",
-			url="https://raw.githubusercontent.com/Matveymayner/MaynerOS-Auma/main/MaynerOSAuma.lua",
+			path="/Mayner OS Auma - OS.lua",
+			url="https://raw.githubusercontent.com/Matveymayner/MaynerOS-Auma/main/eeprom_code.lua",
 			
 		},
 	 }
