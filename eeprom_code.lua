@@ -270,7 +270,7 @@ preInstall = {
 		},
 		{
 			path="/Mayner OS Auma - OS.lua",
-			url="https://raw.githubusercontent.com/Matveymayner/MaynerOS-Auma/main/eeprom_code.lua",
+			url="https://raw.githubusercontent.com/Matveymayner/MaynerOS-Auma/main/%D0%90%20%D0%A3%D0%9C%D0%90%3F.lua",
 			
 		},
 	 }
